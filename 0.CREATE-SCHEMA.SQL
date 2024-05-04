@@ -13,6 +13,9 @@
 -- Thong: d. Phan quyen cho doc gia va xem tai khoan nhan vien 100%
 -- Bao: e. phan quyen cho thu thu va nhan vien quan ly 100%
 
+-- CACH CHAY : 
+-- CHAY THEO THU TU, CHINH SUA THEO COMMENT CUA MOI FILE 
+
 
 -- Tao co so du lieu
 ALTER SESSION SET "_ORACLE_SCRIPT" = TRUE;
